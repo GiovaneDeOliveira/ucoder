@@ -27,7 +27,6 @@ public class Main {
          	
          	entrada = in.nextLine();
          	int num = Integer.parseInt(entrada);
-         	int aniversarios [][] = new int [num][2];
          	boolean encontrado = false;
          	for (int i = 0; i<num;i++) {
          		entrada = in.nextLine();
